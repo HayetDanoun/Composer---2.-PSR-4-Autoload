@@ -1,0 +1,15 @@
+{
+    "name": "src/app",
+    "autoload": {
+        "psr-4": {
+            "Src\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DANOUN Hayet",
+            "email": "hayetdanoun@gmail.com"
+        }
+    ],
+    "require": {}
+}
